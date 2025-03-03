@@ -5,7 +5,7 @@ Grab message from other channel to desired channel.
 ## Usage
 
 ```
-bot.py -i <input_token> -o <output_token> -c <get_channel_id> -u <post_channel_id> -l <message_limit> [-r <reload_time>] [-h]
+dcgrab.py -i <input_token> -o <output_token> -c <get_channel_id> -u <post_channel_id> -l <message_limit> [-r <reload_time>] [-h]
 ```
 -i&nbsp;<input_token>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;User/Bot token for scraping text history  
 -o&nbsp;<output_token>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;User/Bot token for outputing text history  
